@@ -19,7 +19,7 @@ const Tokenomics = () => {
           </div>
           <div className="flex items-center  gap-4">
             <h2 className="text-2xl capitalize">ticker:</h2>
-            <p className="text-secondary capitalize text-xl">#BTD</p>
+            <p className="text-secondary capitalize text-xl">$SEND</p>
           </div>
           <div className="flex items-center  gap-4">
             <h2 className="text-2xl capitalize">supply:</h2>
