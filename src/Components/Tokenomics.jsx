@@ -37,10 +37,6 @@ const Tokenomics = () => {
             <h2 className="text-2xl capitalize">slippage:</h2>
             <p className="text-secondary capitalize text-xl">0%-4%</p>
           </div>
-          <div className="flex items-center  gap-4">
-            <h2 className="text-2xl capitalize">contarct address:</h2>
-            <p className="text-secondary capitalize text-xl">0000000000</p>
-          </div>
         </div>
         <img src={Wojak} alt="" className="md:col-span-2" />
       </div>
