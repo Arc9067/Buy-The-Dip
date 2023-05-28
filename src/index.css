@@ -1,11 +1,14 @@
-
-
 @font-face {
-    font-family: Papernotes;
-    src: url("https://static.tildacdn.com/tild3163-3330-4266-a538-663036616134/PapernotesRegular.woff");
+  font-family: Papernotes;
+  src: url("https://static.tildacdn.com/tild3163-3330-4266-a538-663036616134/PapernotesRegular.woff");
 }
-
 
 @tailwind base;
 @tailwind utilities;
 @tailwind components;
+
+@layer {
+  img {
+    @apply mx-auto;
+  }
+}

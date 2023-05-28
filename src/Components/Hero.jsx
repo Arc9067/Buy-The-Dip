@@ -5,6 +5,7 @@ import { AiOutlineTwitter } from "react-icons/ai";
 import dextool from "../assets/dextool.svg";
 import Etherscan from "../assets/etherscan-logo-circle 1.svg";
 import { MdEmail } from "react-icons/md";
+import uniswap from "../assets/uniswap-uni-logo 1.svg";
 
 const Hero = () => {
   return (
@@ -51,6 +52,12 @@ const Hero = () => {
             className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
           >
             <img src={Etherscan} alt="" className="w-[2rem] object-cover" />
+          </a>
+          <a
+            href=""
+            className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
+          >
+            <img src={uniswap} alt="" className="w-[2rem] object-cover" />
           </a>
         </div>
       </div>

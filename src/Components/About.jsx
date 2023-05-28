@@ -4,7 +4,7 @@ import logo from "../assets/logo.png";
 const About = () => {
   return (
     <section className="py-[50px] bg-green text-white">
-      <div className="container grid md:grid-cols-2 gap-14 items-center">
+      <div className="container grid lg:grid-cols-2 gap-14 items-center">
         <div className=" flex flex-col gap-6 md:order-2">
           <h1 className="text-5xl capitalize">about</h1>
           <p className="text-xl leading-relaxed text-gray-200">
@@ -21,7 +21,7 @@ const About = () => {
             laughter and profit go hand in hand.
           </p>
         </div>
-        <img src={logo} alt="" className="md:order-1" />
+        <img src={logo} alt="" className="md:order-1 md:w-[20rem] lg:w-full" />
       </div>
     </section>
   );
