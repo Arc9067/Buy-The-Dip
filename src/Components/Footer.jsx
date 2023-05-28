@@ -12,16 +12,16 @@ const Footer = () => {
     <footer className="py-[20px] w-full bg-pink">
       <div className="container flex justify-center items-center flex-col gap-5">
         <img src={Logo} alt="" className="w-[5rem] object-cover" />
-        <p className="text-3xl text-black/80">marketing@tdb</p>
+        <p className="text-3xl text-black/80">Yugifouga@gmail.com</p>
         <div className="flex flex-wrap gap-6 items-center justify-center">
           <a
-            href=""
+            href="https://t.me/EatTheDip_Erc20"
             className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
           >
             <FaTelegramPlane className="text-green text-4xl" />
           </a>
           <a
-            href=""
+            href="https://mobile.twitter.com/EatTheDip_Erc"
             className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
           >
             <AiOutlineTwitter className="text-green text-4xl" />

@@ -23,19 +23,19 @@ const Hero = () => {
         </p>
         <div className="flex flex-wrap gap-6 items-center justify-center">
           <a
-            href=""
+            href="https://t.me/EatTheDip_Erc20"
             className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
           >
             <FaTelegramPlane className="text-green text-4xl" />
           </a>
           <a
-            href=""
+            href="https://mobile.twitter.com/EatTheDip_Erc"
             className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
           >
             <AiOutlineTwitter className="text-green text-4xl" />
           </a>
           <a
-            href=""
+            href="maito:Yugifouga@gmail.com"
             className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
           >
             <MdEmail className="text-green text-4xl" />
