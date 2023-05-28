@@ -16,9 +16,9 @@ const Hero = () => {
           Embrace the Dip, Laugh to the Moon!
         </h1>
         <p className="max-w-[600px] text-center text-black/80">
-          BTD: Ride the dips, laugh all the way to the moon. Join the crypto
+          SEND: Ride the dips, laugh all the way to the moon. Join the crypto
           comedy revolution on Ethereum and turn market lows into hilarious
-          highs with 'Buy the Dip Coin' (BTD). Buckle up for profits and
+          highs with 'Buy the Dip Coin' (SEND). Buckle up for profits and
           laughter like never before!
         </p>
         <div className="flex flex-wrap gap-6 items-center justify-center">
