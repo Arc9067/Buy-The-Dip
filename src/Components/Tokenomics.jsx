@@ -10,7 +10,7 @@ const Tokenomics = () => {
           <div className="flex items-center  gap-4 flex-wrap">
             <h2 className="text-2xl capitalize">contarct address:</h2>
             <p className="text-secondary capitalize text-xl">
-              000000000000000000
+              0x5254C1D5E4e2e710592888961C36f6CA89d09542
             </p>
           </div>
           <div className="flex items-center  gap-4">
@@ -19,7 +19,7 @@ const Tokenomics = () => {
           </div>
           <div className="flex items-center  gap-4">
             <h2 className="text-2xl capitalize">ticker:</h2>
-            <p className="text-secondary capitalize text-xl">$SEND</p>
+            <p className="text-secondary capitalize text-xl">$BTD</p>
           </div>
           <div className="flex items-center  gap-4">
             <h2 className="text-2xl capitalize">supply:</h2>

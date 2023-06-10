@@ -15,7 +15,7 @@ const Footer = () => {
         <p className="text-3xl text-black/80">Yugifouga@gmail.com</p>
         <div className="flex flex-wrap gap-6 items-center justify-center">
           <a
-            href="https://t.me/BuyTheDip_Erc20"
+            href="https://t.me/BuyTheDip_ERC"
             className="h-14 w-14 bg-white flex justify-center items-center rounded-full"
           >
             <FaTelegramPlane className="text-green text-4xl" />
